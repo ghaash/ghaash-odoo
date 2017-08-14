@@ -1,0 +1,1 @@
+# ghaash-odoo
